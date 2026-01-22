@@ -416,3 +416,33 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Rider / JetBrains IDE
+.idea/
+*.sln.iml
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# .NET Core / ASP.NET Core specific
+*.dll.config
+*.cache
+*.pdb
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test results
+TestResults/
+[Tt]est[Rr]esult*.xml
+*.trx
+
+# User secrets (if using Secret Manager)
+secrets.json
+**/secrets.json

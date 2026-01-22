@@ -1,0 +1,21 @@
+@HttpStub_HostAddress = http://localhost:5167
+
+### GET with query params
+GET {{HttpStub_HostAddress}}/api/echo?foo=bar&baz=qux
+Accept: application/json
+
+###
+
+### POST with JSON body
+POST {{HttpStub_HostAddress}}/any/path
+Content-Type: application/json
+X-Custom-Header: my-value
+
+{"message": "hello", "count": 42}
+
+###
+
+### Simple GET (root)
+GET {{HttpStub_HostAddress}}/
+
+###
