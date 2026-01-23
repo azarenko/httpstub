@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpStub", "HttpStub.csproj", "{6F3F4C0C-2C6C-4D52-95D1-5A3E3BB3C8F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|Any CPU = Release|Any CPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F3F4C0C-2C6C-4D52-95D1-5A3E3BB3C8F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F3F4C0C-2C6C-4D52-95D1-5A3E3BB3C8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F3F4C0C-2C6C-4D52-95D1-5A3E3BB3C8F2}.Debug|AnyCPU.ActiveCfg = Debug|Any CPU
+		{6F3F4C0C-2C6C-4D52-95D1-5A3E3BB3C8F2}.Debug|AnyCPU.Build.0 = Debug|Any CPU
+		{6F3F4C0C-2C6C-4D52-95D1-5A3E3BB3C8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F3F4C0C-2C6C-4D52-95D1-5A3E3BB3C8F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F3F4C0C-2C6C-4D52-95D1-5A3E3BB3C8F2}.Release|AnyCPU.ActiveCfg = Release|Any CPU
+		{6F3F4C0C-2C6C-4D52-95D1-5A3E3BB3C8F2}.Release|AnyCPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D53C258E-DEE9-4046-A979-A98357CEB2BF}
+	EndGlobalSection
+EndGlobal
